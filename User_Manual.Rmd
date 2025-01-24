@@ -47,7 +47,7 @@ Once you have downloaded the R packages, you can now download the R package:
 
 ```{r Downloading, eval=F, echo=T}
 library(devtools)
-install_github("Judynader/RNAseq");
+install_github("Judynader/RNA-Enrichment");
 ```
 
 Now you load the package *RNASeqAnalysis*
